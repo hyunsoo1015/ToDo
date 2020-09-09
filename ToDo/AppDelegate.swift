@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  ToDo
-//
-//  Created by 김현수 on 08/09/2020.
-//  Copyright © 2020 Hyun Soo Kim. All rights reserved.
-//
-
 import UIKit
 import CoreData
 
